@@ -13,4 +13,3 @@ def guessing_game()
 	 puts " Congrats bro!"
 
 end
-guessing_game
